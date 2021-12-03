@@ -1,0 +1,7 @@
+{
+    "Settings": {
+      "dbConfig": {
+        "dbConnection": "mssql://WebUser:power@ev-compsci-01.principia.local/Spencer.Cobb"
+      }
+    }
+  }
